@@ -15,24 +15,50 @@ Here are some ideas to get you started:
 
 # Hi, I'm Denny 👋
 
-**iOS Developer** based in Jakarta, focused on building clean, scalable mobile apps with Swift.
+**Squad iOS Lead** based in Jakarta, Indonesia — I build scalable iOS applications with Swift and SwiftUI, from banking apps used by millions to streaming platforms and point-of-sale systems.
 
-- 🔭 Currently building personal projects with SwiftUI
-- 🌱 Deepening knowledge in system design & architecture patterns
-- 📫 Reach me on [LinkedIn](http://linkedin.com/in/dennyarfansyah/) | [Personal Site](dennyarfansyah.com)
+🟢 Open to Senior iOS opportunities
+
+- 🌐 [dennyarfansyah.com](https://www.dennyarfansyah.com)
+- 📫 [Email](mailto:dennyarfansyah@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dennyarfansyah/)
 
 ---
 
-### 🚀 Featured Projects
+### 🏆 Selected Work
 
-**[BolaTrivia](https://github.com/dennyArfansyah/BolaTrivia)**
-Quiz/trivia game seputar sepak bola, dibangun native iOS.
+**[RONPOS — Shell Singapore & Malaysia](https://www.dennyarfansyah.com/portfolio/ronpos-shell)** *(2026)*
+iPad point-of-sale applications for Shell fuel stations. Owned feature development end-to-end using Clean Architecture.
 
-**[Lowker](https://github.com/dennyArfansyah/Lowker)**
-Personal job-hunting companion app — aggregates listings dari LinkedIn, Jobstreet, Glints, dan situs job seeker lainnya, plus notifikasi real-time saat ada lowongan baru yang cocok. SwiftUI client + Cloudflare Workers backend ("Sonar").
+**[OCTO Mobile — CIMB Niaga](https://www.dennyarfansyah.com/portfolio/octo-mobile-cimb-niaga)** *(2025)*
+Digital banking app maintaining a **4.9 App Store rating across 130K+ ratings**. 90%+ unit test coverage with Clean Architecture.
 
-**[PersonalWebsite](https://github.com/dennyArfansyah/PersonalWebsite)**
-Personal portfolio website.
+**[Livin' by Mandiri](https://www.dennyarfansyah.com/portfolio/livin-by-mandiri)** *(2023)*
+Digital banking app for one of Indonesia's largest banks. Built and maintained scalable modules using VIPER, 80%+ unit test coverage.
+
+**[RCTI+ Superapp](https://www.dennyarfansyah.com/portfolio/rcti-plus-superapp)** *(2022)*
+Media and streaming app for one of Indonesia's major TV networks. Handled App Store releases end to end.
+
+**[Octomate](https://www.dennyarfansyah.com/portfolio/octomate)** *(2021)*
+Built from the ground up — design, development, and shipping to the App Store, plus post-launch support.
+
+→ [See full portfolio](https://www.dennyarfansyah.com/portfolio)
+
+---
+
+### 🛠️ What I Work With
+
+- **Mobile Development:** Swift · Xcode · UIKit · SwiftUI · RxSwift
+- **Architecture:** VIPER · MVVM · MVC · Clean Architecture
+- **iOS Tooling & Services:** Firebase · Firebase Analytics · App Center · TestFlight · Crashlytics
+- **CI/CD & Distribution:** GitHub Actions · Fastlane · App Store Connect
+- **Testing & QA:** XCTest · Swift Testing · Quick & Nimble
+- **Collaboration:** Git · GitHub · GitLab · Bitbucket · RESTful APIs · Agile/Scrum · Code Review
+
+---
+
+### 🧪 Currently Building
+
+Personal projects in Swift/SwiftUI, including **BolaTrivia** (football trivia game) and **Lowker** (personal job-hunting aggregator app).
 
 ---
 
