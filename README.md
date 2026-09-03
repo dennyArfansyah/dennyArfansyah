@@ -41,8 +41,6 @@ Media and streaming app for one of Indonesia's major TV networks. Handled App St
 **[Octomate](https://www.dennyarfansyah.com/portfolio/octomate)** *(2021)*
 Built from the ground up — design, development, and shipping to the App Store, plus post-launch support.
 
-→ [See full portfolio](https://www.dennyarfansyah.com/portfolio)
-
 ---
 
 ### 🛠️ What I Work With
