@@ -26,19 +26,19 @@ Here are some ideas to get you started:
 
 ### 🏆 Selected Work
 
-**[RONPOS — Shell Singapore & Malaysia](https://www.dennyarfansyah.com/portfolio/ronpos-shell)** *(2026)*
+**[RONPOS — Shell Singapore & Malaysia](https://www.dennyarfansyah.com/work/ronpos-shell)** *(2026)*
 iPad point-of-sale applications for Shell fuel stations. Owned feature development end-to-end using Clean Architecture.
 
-**[OCTO Mobile — CIMB Niaga](https://www.dennyarfansyah.com/portfolio/octo-mobile-cimb-niaga)** *(2025)*
+**[OCTO Mobile — CIMB Niaga](https://www.dennyarfansyah.com/work/octo-mobile-cimb-niaga)** *(2025)*
 Digital banking app maintaining a **4.9 App Store rating across 130K+ ratings**. 90%+ unit test coverage with Clean Architecture.
 
-**[Livin' by Mandiri](https://www.dennyarfansyah.com/portfolio/livin-by-mandiri)** *(2023)*
+**[Livin' by Mandiri](https://www.dennyarfansyah.com/work/livin-by-mandiri)** *(2023)*
 Digital banking app for one of Indonesia's largest banks. Built and maintained scalable modules using VIPER, 80%+ unit test coverage.
 
-**[RCTI+ Superapp](https://www.dennyarfansyah.com/portfolio/rcti-plus-superapp)** *(2022)*
+**[RCTI+ Superapp](https://www.dennyarfansyah.com/work/rcti-plus-superapp)** *(2022)*
 Media and streaming app for one of Indonesia's major TV networks. Handled App Store releases end to end.
 
-**[Octomate](https://www.dennyarfansyah.com/portfolio/octomate)** *(2021)*
+**[Octomate](https://www.dennyarfansyah.com/work/octomate)** *(2021)*
 Built from the ground up — design, development, and shipping to the App Store, plus post-launch support.
 
 ---
