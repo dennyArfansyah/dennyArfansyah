@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 
 ### 🏆 Selected Work
 
+**[Bola Trivia](https://www.dennyarfansyah.com/work/bola-trivia)** *(2026)*
+An offline football trivia game built with Swift and SwiftUI. Answer questions, unlock fictional football legends, and build a complete Dream Squad with local storage and no backend.
+
 **[RONPOS — Shell Singapore & Malaysia](https://www.dennyarfansyah.com/work/ronpos-shell)** *(2026)*
 iPad point-of-sale applications for Shell fuel stations. Owned feature development end-to-end using Clean Architecture.
 
