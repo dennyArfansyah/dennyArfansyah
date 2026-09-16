@@ -59,7 +59,7 @@ Built from the ground up — design, development, and shipping to the App Store,
 
 ### 🧪 Currently Building
 
-Personal projects in Swift/SwiftUI, like **Lowker** (personal job-hunting aggregator app).
+Personal projects in Swift/SwiftUI, like **SwiftDigest** (A privacy-first newsletter digest reader for iOS developers).
 
 ---
 
