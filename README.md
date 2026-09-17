@@ -59,7 +59,7 @@ Built from the ground up — design, development, and shipping to the App Store,
 
 ### 🧪 Currently Building
 
-Personal projects in Swift/SwiftUI, like **SwiftDigest** (A privacy-first newsletter digest reader for iOS developers).
+Personal projects in Swift/SwiftUI, like **SwiftDigest** (A privacy-first newsletter digest reader for iOS developers) and **62Pedia** (An app to knowing Indonesia through narrative, history and culture)
 
 ---
 
